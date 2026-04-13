@@ -3,6 +3,7 @@ using System.Collections;
 
 namespace AI_Chatbott
 {//start of namespace
+    //external class chats
     public class chats
     {//start of classs
 
@@ -395,7 +396,7 @@ namespace AI_Chatbott
 
                 return true;
             }
-        }
+        }//end of method
 
 
     }//end of class
