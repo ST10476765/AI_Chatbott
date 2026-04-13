@@ -343,7 +343,7 @@ namespace AI_Chatbott
                 foreach (string words in find_words)
                 {
 
-                    //then check what to ignore and get answer
+                    //then check what to ignore and get answers
                     foreach (string find_answer in answers)
                     {
 
