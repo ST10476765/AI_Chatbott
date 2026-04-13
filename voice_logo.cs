@@ -5,6 +5,8 @@ using System.Media;
 
 namespace AI_Chatbott
 {//start of namespace
+
+    //external class voice_logo
     public class voice_logo
 
          {//start of class
