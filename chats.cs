@@ -4,7 +4,7 @@ using System.Collections;
 namespace AI_Chatbott
 {//start of namespace
     public class chats
-    {//start of class
+    {//start of classs
 
 
 
