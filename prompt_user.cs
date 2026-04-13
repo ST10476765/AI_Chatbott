@@ -3,6 +3,8 @@ using System.Xml.Linq;
 
 namespace AI_Chatbott
 {//start of namespace
+
+    //external class prompt_user
     public class prompt_user
     {//start of class
 
